@@ -1,16 +1,26 @@
-## Hi there 👋 i am Tariqul
+# 👋 Hi there, I'm Tariqul Islam!
 
+I'm a passionate Full-Stack Developer from 🌍 Bangladesh software Devolopment who loves building awesome things with code.
 
-**tariqul12/tariqul12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+![Languages](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,django,php,laravel,html,css,sass,tailwind,git,github,docker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+### 📫 How to reach me
+- Email: mshimul591@gmail.com(mailto:mshimul591@gmail.com)
+- LinkedIn: (https://linkedin.com/in/yourname)
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+### ⚡ Fun Fact
+I once built a [fun/quirky/cool project] using [tech or concept] in [how long or under what conditions] 🤓
