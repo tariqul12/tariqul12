@@ -10,13 +10,13 @@ I'm a passionate Full-Stack Developer from 🌍 Bangladesh software Devolopment 
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tariqul12&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqul12&layout=compact&theme=radical)
 
 ---
 
 ### 📫 How to reach me
-- Email: mshimul591@gmail.com(mailto:mshimul591@gmail.com)
+- Email: mshimul591@gmail.com
 - LinkedIn: (https://linkedin.com/in/yourname)
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
