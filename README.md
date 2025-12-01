@@ -5,7 +5,7 @@ I'm a passionate Full-Stack Developer from 🌍 Bangladesh software Devolopment 
 ---
 
 ### 🔧 Tech Stack
-![Languages](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,python,php,laravel,html,css,tailwind,git,github)
+![Languages](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,php,laravel,html,css,tailwind,git,github)
 
 ---
 
